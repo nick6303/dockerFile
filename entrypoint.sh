@@ -1,4 +1,4 @@
-cd slime-modal
+cd src/slime-modal
 
 npm install --silent
 

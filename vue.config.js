@@ -11,7 +11,7 @@ module.exports = {
         '@css': join('src/assets/css'),
         '@img': join('src/assets/img'),
         '@src': join('src'),
-        '@c': join('src/components'),
+        '@c': join('app/components'),
       },
     },
   },
